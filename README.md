@@ -43,7 +43,10 @@ Check Missing Data – Find out if any column is empty.
 <img width="959" height="344" alt="image" src="https://github.com/user-attachments/assets/f069d405-e40e-4b7d-863a-9942d0a8f8a9" />
 
 # Output- 
+
 you can refer from shared google colab.
+
+https://colab.research.google.com/drive/12-J9BezN5P1swF3qdIZPD9hBXklqI5Qb?usp=sharing
 
 # Dataset Loading & Inspection – Results
 
