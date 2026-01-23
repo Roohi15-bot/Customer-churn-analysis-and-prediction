@@ -1,4 +1,3 @@
-[Telco_Customer_Churn_Dataset  (1).csv](https://github.com/user-attachments/files/24814601/Telco_Customer_Churn_Dataset.1.csv)
 # Project Title: Customer Churn Analysis and Prediction
 
 # Project Overview:
@@ -16,7 +15,7 @@ Categorical variable encoding
 
 # given tele customer churn dataset;
 
-[Uploading Telco_Customer_Churn_Dataset  (1).csv…]()
+[Telco_Customer_Churn_Dataset  (1).csv](https://github.com/user-attachments/files/24814601/Telco_Customer_Churn_Dataset.1.csv)
 
 # process - 
 
